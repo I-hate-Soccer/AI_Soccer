@@ -8,15 +8,16 @@
 ---
 ## Dynamic planning
 > Rule-Based 알고리즘을 기반으로 하며, 확고한 규칙을 가진 전략을 세우고 그에 따라 행동하는 agent
-* 1. Standard role-based players
-* 2. Gegenangriff - Becoming extremely offensive players
-* 3. Gegenpressing – becoming extremely defensive players
-* 4. Becoming sprinters
-* 5. Becoming defenders in the penalty area
-* 6. Becoming man-to-man defenders
-* 7. Becoming ball-hunters
-* 8. All Becoming goalies #1
-* 9. All Becoming goalies #2
+
+1. Standard role-based players
+2. Gegenangriff - Becoming extremely offensive players
+3. Gegenpressing – becoming extremely defensive players
+4. Becoming sprinters
+5. Becoming defenders in the penalty area
+6. Becoming man-to-man defenders
+7. Becoming ball-hunters
+8. All Becoming goalies #1
+9. All Becoming goalies #2
 
 ---
 ## Multi-agent Reinforence Learning
