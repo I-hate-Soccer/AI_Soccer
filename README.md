@@ -3,7 +3,7 @@
 ## Random walk
 > 로봇의 양측 바퀴 속도를 random으로 결정하는 알고리즘으로, 간단히 말하면 ‘무작위 움직임’ agent  
 
-[`random-walk`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Random%20Walk/random-walk)
+1. [`random-walk`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Random%20Walk/random-walk)
 
 ---
 ## Dynamic planning
