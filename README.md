@@ -6,6 +6,10 @@
 ---
 ## Dynamic planning
 > Rule-Based 알고리즘을 기반으로 하며, 확고한 규칙을 가진 전략을 세우고 그에 따라 행동하는 agent
+> * 1. Standard role-based players
+> * 2. Gegenangriff - Becoming extremely offensive players
+
+
 
 ---
 ## Multi-agent Reinforence Learning
