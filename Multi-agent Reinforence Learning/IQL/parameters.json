@@ -1,0 +1,27 @@
+{
+  "iql_parameters": {
+    "gamma": 0.99,
+    "batch_size": 64,
+    "buffer_size": 200000,
+    "lr": 0.0001,
+    "epsilon_steps": 30000,
+    "grad_norm_clip": 10
+  },
+  "qmix_parameters": {
+    "gamma": 0.99,
+    "batch_size": 128,
+    "buffer_size": 200000,
+    "lr": 0.0001,
+    "epsilon_steps": 30000,
+    "grad_norm_clip": 10
+  },
+  "agent_parameters": {
+    "num_layers": 3,
+    "hidden_dim": 64
+  },
+  "sim_parameters": {
+    "algorithm": "iql",
+    "frame_skip": 2,
+    "robot": [true, true, true, true, true]
+  }
+}
