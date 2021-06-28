@@ -1,5 +1,10 @@
 # 멀티에이전트 기반 AI worldcup 축구 에이전트 설계
 ---
+## 실행 방법
+- [`config.json`](https://github.com/I-hate-Soccer/AI_Soccer/blob/main/config.json) 파일에 폴더 경로 명시하여 사용
+- 훈련시 [`config_train.json`](https://github.com/I-hate-Soccer/AI_Soccer/blob/main/config_train.json) 파일 이름을 [`config.json`](https://github.com/I-hate-Soccer/AI_Soccer/blob/main/config.json) 으로 변경하여 사용
+- 
+---
 ## Random walk
 > 로봇의 양측 바퀴 속도를 random으로 결정하는 알고리즘으로, 간단히 말하면 ‘무작위 움직임’ agent  
 
