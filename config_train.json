@@ -1,0 +1,41 @@
+{
+  "rule": {
+    "game_time": 100,
+    "deadlock": false
+  },
+  "team_a": {
+    "name": "teamA",
+    "executable": "examples/Multi-agent Reinforence Learning/QMIX/train.py",
+    "datapath": "examples/team_a_data",
+    "keyboard": false
+  },
+  "team_b": {
+    "name": "teamB",
+    "executable": "examples/Random Walk/random-walk/random-walk.py",
+    "datapath": "examples/team_b_data",
+    "keyboard": false
+  },
+  "commentator": {
+    "name": "commentator",
+    "executable": "examples/commentator_skeleton_py/commentator_skeleton.py",
+    "datapath": "examples/commentator_data"
+  },
+  "reporter": {
+    "name": "reporter",
+    "executable": "examples/reporter_skeleton_py/reporter_skeleton.py",
+    "datapath": "examples/reporter_data"
+  },
+  "tool": {
+    "repeat": true,
+    "multi_view": false,
+    "record": false,
+    "record_path": "C:/Users/308_2/minji/aisoccer-3d/examples/player_deeplearning-multi-iql-dqn_py",
+    "replay": false,
+    "patch_visible": true,
+    "show_comments": true
+  },
+  "license": {
+    "email": "jminji98@naver.com",
+    "signature":"Ba+P8txKX/KYCFS59dB0f4mLHcNI0eWa20GXgyj3DErnuB+XJ6vYjldOkZCR0YyfAmnJmbS3elkFdBqvRbNYxA=="
+  }
+}
