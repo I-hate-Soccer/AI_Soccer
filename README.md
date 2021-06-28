@@ -82,3 +82,6 @@
 ---
 ## Multi-agent Reinforence Learning
 > IQL과 QMIX 두 가지 알고리즘을 사용하며, random walk와 여러 규칙 기반 agent들을 상대로 학습시켜 모델을 얻는 agent
+
+#### [`IQL`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Multi-agent%20Reinforence%20Learning/IQL)
+#### [`QMIX`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Multi-agent%20Reinforence%20Learning/QMIX)
