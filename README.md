@@ -4,12 +4,15 @@
 > 로봇의 양측 바퀴 속도를 random으로 결정하는 알고리즘으로, 간단히 말하면 ‘무작위 움직임’ agent  
 
 ### 1. [`random-walk`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Random%20Walk/random-walk)
+- 로봇의 좌우측 바퀴 속도를 random으로 결정하여 무작위로 움직이는 Strategy
 
 ---
 ## Dynamic planning
 > Rule-Based 알고리즘을 기반으로 하며, 확고한 규칙을 가진 전략을 세우고 그에 따라 행동하는 agent
 
 ### 1. [`Standard role-based players`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Dynamic%20Planning/Standard_role-based_players)
+- 공의 위치와 로봇의 위치에 따른 현재 상태를 기반으로 알고리즘을 설정하여 미리 설정된 규칙대로 움직이는 Strategy
+
 ### 2. [`Gegenangriff`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Dynamic%20Planning/Gegenangriff) - becoming extremely offensive players
 ### 3. [`Gegenpressing`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Dynamic%20Planning/Gegenpressing) – becoming extremely defensive players
 ### 4. [`Becoming sprinters`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Dynamic%20Planning/Becoming_sprinters)
