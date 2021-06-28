@@ -9,10 +9,10 @@
 ## Dynamic planning
 > Rule-Based 알고리즘을 기반으로 하며, 확고한 규칙을 가진 전략을 세우고 그에 따라 행동하는 agent
 
-1. Standard role-based players
-2. Gegenangriff - Becoming extremely offensive players
-3. Gegenpressing – becoming extremely defensive players
-4. Becoming sprinters
+1. [`Standard role-based players`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Dynamic%20Planning/Standard_role-based_players)
+2. [`Gegenangriff`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Dynamic%20Planning/Gegenangriff) - Becoming extremely offensive players
+3. [`Gegenpressing`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Dynamic%20Planning/Gegenpressing) – becoming extremely defensive players
+4. [`Becoming sprinters`](https://github.com/I-hate-Soccer/AI_Soccer/tree/main/Dynamic%20Planning/Becoming_sprinters)
 5. Becoming defenders in the penalty area
 6. Becoming man-to-man defenders
 7. Becoming ball-hunters
